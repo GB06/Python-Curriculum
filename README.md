@@ -8,7 +8,7 @@ The curriculum is meant to be worked through in four weeks (considering the reco
 
 ## Week One - Beginner Level (1-3 Hours / Day)
 
-You can use whatever resources you like to learn those concepts. If you want to use NeuralNine ressources, check out the following two links:
+You can use whatever resources you like to learn those concepts. If you want to use NeuralNine resources, check out the following two links:
 
 YouTube Playlist: https://bit.ly/3aPFRZa
 Python Bible Book: https://www.neuralnine.com/books/
@@ -29,7 +29,7 @@ Python Bible Book: https://www.neuralnine.com/books/
 
 ## Week Two - Intermediate Level (2-4 Hours / Day)
 
-You can use whatever resources you like to learn those concepts. If you want to use NeuralNine ressources, check out the following two links:
+You can use whatever resources you like to learn those concepts. If you want to use NeuralNine resources, check out the following two links:
 
 YouTube Playlist: https://bit.ly/3dJm8w7
 Python Bible Book: https://www.neuralnine.com/books/
@@ -40,7 +40,7 @@ Python Bible Book: https://www.neuralnine.com/books/
 | 2 | Inheritance | Learn about parent and child classes. |
 | 3 | Recursion | Write recursive functions instead of iterative functions. |
 | 3 | Multithreading | Run multiple threads in the same Python script. |
-| 4 | Queues | Use the queue data structure to control the access to a ressource. |
+| 4 | Queues | Use the queue data structure to control the access to a resource. |
 | 4 | Sockets | Learn the basics of network programming in Python. |
 | 5 | Database Programming | Execute basic SQLite commands on a database from a Python script. |
 | 6 | Logging | Learn to log messages using different security levels. |
@@ -51,7 +51,7 @@ Opt = Optional.
 
 ## Week Three - Advanced Level (2-5 Hours / Day)
 
-You can use whatever resources you like to learn those concepts. If you want to use NeuralNine ressources, check out the following two links:
+You can use whatever resources you like to learn those concepts. If you want to use NeuralNine resources, check out the following two links:
 
 YouTube Playlist 1: https://bit.ly/3bCT3zS
 YouTube Playlist 2: https://bit.ly/2NF1CSy
